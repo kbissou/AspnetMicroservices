@@ -14,6 +14,7 @@ namespace Catalog.API
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            //comment test push
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
